@@ -1,0 +1,6 @@
+- Cross site scripting
+- Cross site request forgery
+- CORS
+- SQL Injection
+- WebAPI rate limiting
+- Nên lưu JWT token ở local storage hay cookie?
