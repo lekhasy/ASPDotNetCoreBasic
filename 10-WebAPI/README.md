@@ -9,5 +9,5 @@
 
 # Bài tập về nhà
 
-- Tạo thử API để đăng nhập User
-- Đăng nhập User qua Ajax
+- Tạo thử API để báo cáo số liệu bán hàng
+- Gọi API qua Ajax để hiển thị số liệu
